@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="428.002">
+  <properties />
+  
+  
+            <testcase name="ToVerifyTimesheetNewCreation" time="178.843" classname="WorkFlow.ToVerifyTimesheetCreationUsingCSV" />
+                <testcase name="ToVerifyTimesheetGetsApprovedFromManager" time="93.941" classname="WorkFlow.ToVerifyTimesheetCreationUsingCSV" />
+                <testcase name="ToVerifyTimesheetGetsRejectedFromManager" time="38.772" classname="WorkFlow.ToVerifyTimesheetCreationUsingCSV" />
+                <testcase name="ToVerifyCreatedTimesheetGetsDeleted" time="116.446" classname="WorkFlow.ToVerifyTimesheetCreationUsingCSV" />
+      
+</testsuite>

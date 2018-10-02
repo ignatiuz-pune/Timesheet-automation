@@ -1,1 +1,1 @@
-# Timesheet-automation
+Automation source code for Timesheet project.

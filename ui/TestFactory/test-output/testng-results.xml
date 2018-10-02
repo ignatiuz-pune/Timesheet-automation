@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="428598" started-at="2018-10-02T13:46:31Z" finished-at="2018-10-02T13:53:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="428598" started-at="2018-10-02T13:46:31Z" finished-at="2018-10-02T13:53:39Z">
+      <class name="WorkFlow.ToVerifyTimesheetCreationUsingCSV">
+        <test-method status="PASS" signature="ToVerifyTimesheetNewCreation()[pri:0, instance:WorkFlow.ToVerifyTimesheetCreationUsingCSV@43840]" name="ToVerifyTimesheetNewCreation" duration-ms="178843" started-at="2018-10-02T19:16:31Z" description="ToVerifyTimesheetNewCreation" finished-at="2018-10-02T19:19:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifyTimesheetNewCreation -->
+        <test-method status="PASS" signature="ToVerifyTimesheetGetsApprovedFromManager()[pri:0, instance:WorkFlow.ToVerifyTimesheetCreationUsingCSV@43840]" name="ToVerifyTimesheetGetsApprovedFromManager" duration-ms="93941" started-at="2018-10-02T19:19:30Z" description="ToVerifyTimesheetGetsApprovedFromManager" finished-at="2018-10-02T19:21:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifyTimesheetGetsApprovedFromManager -->
+        <test-method status="PASS" signature="ToVerifyTimesheetGetsRejectedFromManager()[pri:0, instance:WorkFlow.ToVerifyTimesheetCreationUsingCSV@43840]" name="ToVerifyTimesheetGetsRejectedFromManager" duration-ms="38772" started-at="2018-10-02T19:21:04Z" description="ToVerifyCreatedTimesheetGetsDeleted" finished-at="2018-10-02T19:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifyTimesheetGetsRejectedFromManager -->
+        <test-method status="PASS" signature="ToVerifyCreatedTimesheetGetsDeleted()[pri:0, instance:WorkFlow.ToVerifyTimesheetCreationUsingCSV@43840]" name="ToVerifyCreatedTimesheetGetsDeleted" duration-ms="116446" started-at="2018-10-02T19:21:43Z" description="ToVerifyCreatedTimesheetGetsDeleted" finished-at="2018-10-02T19:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifyCreatedTimesheetGetsDeleted -->
+      </class> <!-- WorkFlow.ToVerifyTimesheetCreationUsingCSV -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
